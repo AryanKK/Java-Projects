@@ -1,6 +1,4 @@
-/*Aryan K. Kedarisetty APCS Peterson P3
- Programming Assignment Chp 10 project Shopping, 4/4/2021
- 
+/*Aryan K. Kedarisetty 
  The following program uses OOP and arraylists to support a GUI interface
  of an interactive shopping cart. 
 */
