@@ -1,6 +1,5 @@
 /*
- Aryan K. Kedarisetty APCS Peterson P3
- Programming Assignment Chp 6 project Baby Names, 1/6/2020
+ Aryan K. Kedarisetty 
  
  The following program utilizes line and token based processing 
  along with conditional and iterative statements to 
